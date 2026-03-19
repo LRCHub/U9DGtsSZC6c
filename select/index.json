@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "フェアリー・ガール",
+  "base_artist": "七草にちか (CV.紫月杏朱彩)",
+  "createdAt": "2026-03-19T14:40:56.252249Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フェアリー・ガール",
+      "artist": "七草にちか (CV.紫月杏朱彩)",
+      "has_synced": false,
+      "path": "select/pl_01_フェアリー・ガール_七草にちか_(CV.紫月杏朱彩).txt"
+    }
+  ]
+}
